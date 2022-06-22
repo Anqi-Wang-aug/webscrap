@@ -1,3 +1,4 @@
+# 下载电影海报
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from tqdm import tqdm
